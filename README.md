@@ -1,2 +1,2 @@
 # web-proxy
-redirect client to your Adress
+rRedirect client to your address
